@@ -2,4 +2,4 @@
 
 Cloudflare Workers部署图床参考Cloudflare Workers.js
 
-在插件填入URL时，在结尾加上/
+在插件填入URL时，在结尾加上"/"
