@@ -7,7 +7,7 @@ Cloudflare Workers部署图床参考Cloudflare Workers.js
 
 首页：https://workers.cloudflare.com
 
-先注册登陆，选择左侧`Compute (Workers)`，然后点击`Workers Pages`，`Start with Hello World!`。![1]([https://github.com/user-attachments/assets/24abb9f1-2d75-4c6d-9d84-530b76366675](https://github.com/monbed/wife/blob/main/1.png))
+先注册登陆，选择左侧`Compute (Workers)`，然后点击`Workers Pages`，`Start with Hello World!`。[https://github.com/monbed/wife/blob/main/1.png](https://github.com/monbed/wife/blob/main/1.png)
 取一个子域名（自己喜欢），点击`Deploy`。![2](https://github.com/user-attachments/assets/498751bd-c2ae-46ce-afab-9bbdc5925e17)
 完成后点击Edit code，复制 [Cloudflare Workers.js](https://raw.githubusercontent.com/monbed/wife/refs/heads/main/Cloudflare%20Workers.js)  到左侧代码框
 ![image](https://github.com/user-attachments/assets/574e4c23-9f0b-4f38-8b23-e1adb9f6de35)
