@@ -31,3 +31,6 @@ GITHUB_TOKEN在这申请https://github.com/settings/tokens
 最后点击`Deploy`。如果正常，右侧应显示首页。
 
 在插件填入URL时，在结尾加上"/"，如https://113123.258369.workers.dev/
+
+
+由于Cloudflare Workers被墙，请给bot可以正确访问的网络，或者其它可访问的方式（Google）。
