@@ -36,3 +36,12 @@ GITHUB_TOKEN在这申请https://github.com/settings/tokens
 
 
 由于Cloudflare Workers被墙，请给bot可以正确访问的网络，或者其它可访问的方式（Google）。
+
+## 致谢
+本仓库大部分图片出自（本人也添加了些）：   
+
+https://github.com/Rinco304/AnimeWife
+
+https://github.com/zgojin/astrbot_plugin_AW
+
+https://t.me/WaifuP1c
