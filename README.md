@@ -3,6 +3,7 @@
 Cloudflare Workers部署图床参考Cloudflare Workers.js
 
 ## Cloudflare Workers部署
+首先Fork一份本仓库
 
 首页：https://workers.cloudflare.com
 
