@@ -11,8 +11,10 @@ Cloudflare Workers部署图床参考Cloudflare Workers.js
 完成后点击Edit code，复制 [Cloudflare Workers.js](https://raw.githubusercontent.com/monbed/wife/refs/heads/main/Cloudflare%20Workers.js)  到左侧代码框
 ![3](https://github.com/user-attachments/assets/54fe02c9-d1c3-4435-8ee9-7de44a89287a)
 
+如果点错了可以在此处找到代码修改处：![image](https://github.com/user-attachments/assets/8c45c916-1f25-43a8-95ae-35ab9811b81b)
 
-/** 配置项：根据实际情况修改 */
+
+根据你的实际情况修改下列配置
 
 const OWNER        = 'monbed'
 
@@ -23,8 +25,9 @@ const BRANCH       = 'main'
 // 访问私有仓库需 repo Scope，公共仓库建议 public_repo
 const GITHUB_TOKEN = '' 
 
+
 GITHUB_TOKEN在这申请https://github.com/settings/tokens
 
 最后点击`Deploy`。如果正常，右侧应显示首页。
 
-在插件填入URL时，在结尾加上"/"
+在插件填入URL时，在结尾加上"/"，如https://113123.258369.workers.dev/
