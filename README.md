@@ -23,6 +23,7 @@ const REPO         = 'wife'
 const BRANCH       = 'main'
 
 // 访问私有仓库需 repo Scope，公共仓库建议 public_repo
+
 const GITHUB_TOKEN = '' 
 
 
