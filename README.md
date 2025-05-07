@@ -1,8 +1,13 @@
 抽二次元老婆插件图床仓库
 
 Cloudflare Workers部署图床参考Cloudflare Workers.js
+
 ## Deno Deploy部署
+
+**首先Fork本仓库**
+
 首页：https://deno.com/deploy 
+
 先注册登陆，点击`New Playground`
 ![D1](/D1.png)
 复制 [Deno Deploy.ts](https://raw.githubusercontent.com/monbed/wife/refs/heads/main/Deno%20Deploy.ts)中的代码，然后点击`Save Deploy`。
