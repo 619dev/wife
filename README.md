@@ -17,8 +17,11 @@
 根据你的实际情况修改下列配置
 
 GITHUB_OWNER monbed
+
 GITHUB_REPO wife
+
 GITHUB_BRANCH main
+
 GITHUB_TOKEN 你的GITHUB_TOKEN
 
 GITHUB_TOKEN在这申请https://github.com/settings/tokens
