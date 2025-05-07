@@ -1,7 +1,5 @@
 抽二次元老婆插件图床仓库
 
-Cloudflare Workers部署图床参考Cloudflare Workers.js
-
 ## Deno Deploy部署
 
 **首先Fork本仓库**
