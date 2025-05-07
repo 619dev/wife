@@ -1,7 +1,7 @@
 抽二次元老婆插件图床仓库
 
 ## Deno Deploy部署
-
+**相比Cloudflare Workers，优点是免代理访问。**
 **首先Fork本仓库**
 
 首页：https://deno.com/deploy 
@@ -16,13 +16,13 @@
 
 根据你的实际情况修改下列配置
 
-GITHUB_OWNER monbed
+GITHUB_OWNER=monbed
 
-GITHUB_REPO wife
+GITHUB_REPO=wife
 
-GITHUB_BRANCH main
+GITHUB_BRANCH=main
 
-GITHUB_TOKEN 你的GITHUB_TOKEN
+GITHUB_TOKEN=你的GITHUB_TOKEN
 
 GITHUB_TOKEN在这申请https://github.com/settings/tokens
 ![D4](/D4.png)
