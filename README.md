@@ -1,6 +1,29 @@
 抽二次元老婆插件图床仓库
 
 Cloudflare Workers部署图床参考Cloudflare Workers.js
+## Deno Deploy部署
+首页：https://deno.com/deploy 
+先注册登陆，点击`New Playground`
+![D1](/D1.png)
+复制 [Deno Deploy.ts](https://raw.githubusercontent.com/monbed/wife/refs/heads/main/Deno%20Deploy.ts)中的代码，然后点击`Save Deploy`。
+![D2](/D2.png)
+返回面板点击`Settings`。
+![D3](/D3.png)
+在`Environment Variables`中添加
+
+GITHUB_OWNER monbed
+
+GITHUB_REPO wife
+
+GITHUB_BRANCH main
+
+GITHUB_TOKEN your_token_here
+
+GITHUB_TOKEN在这申请https://github.com/settings/tokens
+![D4](/D4.png)
+点击`Save`。
+
+在插件填入URL时，在结尾加上"/"，如https://clever-toad-16.deno.dev/
 
 ## Cloudflare Workers部署
 **首先Fork本仓库**
