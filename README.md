@@ -2,6 +2,7 @@
 
 ## Deno Deploy部署
 **相比Cloudflare Workers，优点是免代理访问。**
+
 **首先Fork本仓库**
 
 首页：https://deno.com/deploy 
